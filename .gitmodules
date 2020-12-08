@@ -19,3 +19,6 @@
 [submodule "tldr-copy-deepl"]
 	path = tldr-copy-deepl
 	url = https://github.com/JustinGuese/tldr-copy-deepl
+[submodule "datafortress.cloud.hugo"]
+	path = datafortress.cloud.hugo
+	url = https://github.com/JustinGuese/datafortress.cloud.hugo
