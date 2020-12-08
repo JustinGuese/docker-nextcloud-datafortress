@@ -1,0 +1,21 @@
+[submodule "docker-autoscout-crawler-ingestor"]
+	path = docker-autoscout-crawler-ingestor
+	url = https://github.com/JustinGuese/docker-autoscout-crawler-ingestor
+[submodule "docker-autoscout-handler"]
+	path = docker-autoscout-handler
+	url = https://github.com/JustinGuese/docker-autoscout-handler
+[submodule "prefect"]
+	path = prefect
+	url = https://github.com/PrefectHQ/prefect
+[submodule "alpaca-sma-livetrader-docker"]
+	path = alpaca-sma-livetrader-docker
+	url = https://github.com/JustinGuese/alpaca-sma-livetrader-docker
+[submodule "docker-transmission-openvpn"]
+	path = docker-transmission-openvpn
+	url = https://github.com/JustinGuese/dcoker-transmission-setupprivate
+[submodule "facebookprophetpredictorhugo"]
+	path = facebookprophetpredictorhugo
+	url = https://github.com/JustinGuese/facebookprophetpredictorhugo
+[submodule "tldr-copy-deepl"]
+	path = tldr-copy-deepl
+	url = https://github.com/JustinGuese/tldr-copy-deepl
